@@ -1,0 +1,23 @@
+{
+  "name": "content-scraper",
+  "version": "1.0.0",
+  "description": "scraping",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mercurio-developing/content.Scraper.git"
+  },
+  "author": "Alejandro Fidanza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mercurio-developing/content.Scraper/issues"
+  },
+  "homepage": "https://github.com/mercurio-developing/content.Scraper#readme",
+  "dependencies": {
+    "x-ray": "^2.3.2"
+  }
+}
